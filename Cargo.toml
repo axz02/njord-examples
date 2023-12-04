@@ -1,0 +1,7 @@
+[workspace]
+members = [
+    "sqlite",
+    #"postgres",
+]
+
+resolver = "2"
